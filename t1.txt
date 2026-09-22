@@ -1,5 +1,8 @@
 first line 
 second line
 third line
+<<<<<<< HEAD
 fourth line
 fift line 
+=======
+>>>>>>> parent of a471c71 (t1 edited)
